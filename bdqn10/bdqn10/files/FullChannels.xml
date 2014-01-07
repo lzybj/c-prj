@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TVChannels>
+	<Channel>
+		<channelType>TypeA</channelType> <!--频道编号-->
+		<tvChannel>北京电视台</tvChannel> <!--频道名称-->
+		<path>files/北京电视台.xml</path>           <!--频道对应XML文件的本地路径-->
+	</Channel>
+	<Channel>
+		<channelType>TypeB</channelType>
+		<tvChannel>凤凰卫视</tvChannel>
+		<path>files/凤凰卫视.xml</path>
+	</Channel>
+</TVChannels>
+	

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<emps>
+  <emp>
+    <empcode>1001</empcode>
+    <empname>老郑</empname>
+    <age>34</age>
+  </emp>
+  <emp>
+    <empcode>1002</empcode>
+    <empname>老李</empname>
+    <age>30</age>
+  </emp>
+</emps>

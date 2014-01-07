@@ -1,0 +1,5 @@
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn11\ioprj\bin\Debug\ioprj.exe
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn11\ioprj\bin\Debug\ioprj.pdb
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn11\ioprj\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn11\ioprj\obj\x86\Debug\ioprj.exe
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn11\ioprj\obj\x86\Debug\ioprj.pdb

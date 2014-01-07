@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <Breed name="Lenoveo">
+    <Model Kind="PC">
+      <Name>ThinkPad SL400</Name>
+      <Cpu>T6400</Cpu>
+      <HardDisk>希捷酷鱼</HardDisk>
+      <Mem>DDR3</Mem>
+      <Display>SumSung 788DF</Display>
+      <HostType>立式</HostType>
+    </Model>
+    <Model Kind="NoteBook">
+      <Name>ThinkPad SL500</Name>
+      <Cpu>T5800</Cpu>
+      <Mem>DDR2</Mem>
+      <HardDisk>希捷酷鱼</HardDisk>
+      <Display>SumSung 788EF</Display>
+      <Battery>长城</Battery>
+    </Model>
+  </Breed>
+  <Breed name="DELL">
+    <Model Kind="PC">
+      <Name>DELL 01</Name>
+      <Cpu>T6400</Cpu>
+      <HardDisk>希捷酷鱼</HardDisk>
+      <Mem>DDR3</Mem>
+      <Display>SumSung 788DF</Display>
+      <HostType>立式</HostType>
+    </Model>
+    <Model Kind="NoteBook">
+      <Name>DeLL 02</Name>
+      <Cpu>T5800</Cpu>
+      <Mem>DDR2</Mem>
+      <HardDisk>希捷酷鱼</HardDisk>
+      <Display>SumSung 788EF</Display>
+      <Battery>长城</Battery>
+    </Model>
+  
+  </Breed>
+</Root>

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bdqn06", "bdqn06\bdqn06.csproj", "{208FD33D-4D9C-48B6-BA30-060DD490015A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QKCF", "QKCF\QKCF.csproj", "{688A0044-796C-4F5D-AF29-31F797678ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW", "CW\CW.csproj", "{E54EB191-08F9-4E1D-B4E0-685C10630FD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{208FD33D-4D9C-48B6-BA30-060DD490015A}.Debug|x86.ActiveCfg = Debug|x86
+		{208FD33D-4D9C-48B6-BA30-060DD490015A}.Debug|x86.Build.0 = Debug|x86
+		{208FD33D-4D9C-48B6-BA30-060DD490015A}.Release|x86.ActiveCfg = Release|x86
+		{208FD33D-4D9C-48B6-BA30-060DD490015A}.Release|x86.Build.0 = Release|x86
+		{688A0044-796C-4F5D-AF29-31F797678ECB}.Debug|x86.ActiveCfg = Debug|x86
+		{688A0044-796C-4F5D-AF29-31F797678ECB}.Debug|x86.Build.0 = Debug|x86
+		{688A0044-796C-4F5D-AF29-31F797678ECB}.Release|x86.ActiveCfg = Release|x86
+		{688A0044-796C-4F5D-AF29-31F797678ECB}.Release|x86.Build.0 = Release|x86
+		{E54EB191-08F9-4E1D-B4E0-685C10630FD8}.Debug|x86.ActiveCfg = Debug|x86
+		{E54EB191-08F9-4E1D-B4E0-685C10630FD8}.Debug|x86.Build.0 = Debug|x86
+		{E54EB191-08F9-4E1D-B4E0-685C10630FD8}.Release|x86.ActiveCfg = Release|x86
+		{E54EB191-08F9-4E1D-B4E0-685C10630FD8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

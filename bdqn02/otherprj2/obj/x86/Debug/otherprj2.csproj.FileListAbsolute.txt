@@ -1,0 +1,5 @@
+C:\Users\jacky zheng\documents\visual studio 2010\Projects\bdqn02\otherprj2\bin\Debug\otherprj2.exe
+C:\Users\jacky zheng\documents\visual studio 2010\Projects\bdqn02\otherprj2\bin\Debug\otherprj2.pdb
+C:\Users\jacky zheng\documents\visual studio 2010\Projects\bdqn02\otherprj2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jacky zheng\documents\visual studio 2010\Projects\bdqn02\otherprj2\obj\x86\Debug\otherprj2.exe
+C:\Users\jacky zheng\documents\visual studio 2010\Projects\bdqn02\otherprj2\obj\x86\Debug\otherprj2.pdb

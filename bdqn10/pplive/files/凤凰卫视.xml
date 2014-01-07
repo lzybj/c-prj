@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<typeB version =" 1.0">
+	<ProgramList>
+		<Program>
+			<playTime>2009-9-29 01:30</playTime>  <!--播出时间-->
+		
+			<name>金龙鱼凤凰剧场:李算(9)</name>          <!--节目名称-->
+			<path>**</path>          <!--节目视频的本地路径-->
+		</Program>
+		<Program>
+			<playTime>2009-9-29 02:10</playTime>  <!--播出时间-->
+		
+			<name>非凡人物论成功(713)</name>          <!--节目名称-->
+			<path>**</path>          <!--节目视频的本地路径-->
+		</Program>
+		<Program>
+			<playTime>2009-9-29 02:15</playTime>  <!--播出时间-->
+		
+			<name>有报天天读(28/09/09) </name>          <!--节目名称-->
+			<path>**</path>          <!--节目视频的本地路径-->
+		</Program>
+		<Program>
+			<playTime>2009-9-29 02:40</playTime>  <!--播出时间-->
+		
+			<name>娱乐大风暴(682) </name>          <!--节目名称-->
+			<path>**</path>          <!--节目视频的本地路径-->
+		</Program>
+		<Program>
+			<playTime>2009-9-29 03:15</playTime>  <!--播出时间-->
+		
+			<name>上海新长宁集团特约之2009中华小姐环球大赛-美丽前奏(41) </name>          <!--节目名称-->
+			<path>**</path>          <!--节目视频的本地路径-->
+		</Program>
+		<Program>
+			<playTime>2009-9-29 03:20</playTime>  <!--播出时间-->
+		
+			<name>完全时尚手册:天桥云裳(632)  </name>          <!--节目名称-->
+			<path>**</path>          <!--节目视频的本地路径-->
+		</Program>
+		<Program>
+			<playTime>2009-9-29 03:40</playTime>  <!--播出时间-->
+		
+			<name>东风康明斯凤凰冲击播:天力士特约之今日看世界(39)  </name>          <!--节目名称-->
+			<path>**</path>          <!--节目视频的本地路径-->
+		</Program>
+		<Program>
+			<playTime>2009-9-29 04:25</playTime>  <!--播出时间-->
+		
+			<name>音乐中国风(442)  </name>          <!--节目名称-->
+			<path>**</path>          <!--节目视频的本地路径-->
+		</Program>
+		<Program>
+			<playTime>2009-9-29 04:35</playTime>  <!--播出时间-->
+		
+			<name>维维健康新概念(193) </name>          <!--节目名称-->
+			<path>**</path>          <!--节目视频的本地路径-->
+		</Program>
+		<Program>
+			<playTime>2009-9-29 04:40</playTime>  <!--播出时间-->
+		
+			<name>红牛凤凰全球连线(28/09/09) </name>          <!--节目名称-->
+			<path>**</path>          <!--节目视频的本地路径-->
+		</Program>
+		<Program>
+			<playTime>2009-9-29 05:05</playTime>  <!--播出时间-->
+		
+			<name>红云红河时事开讲(28/09/09)  </name>          <!--节目名称-->
+			<path>**</path>          <!--节目视频的本地路径-->
+		</Program>
+		<Program>
+			<playTime>2009-9-29 05:30</playTime>  <!--播出时间-->
+		
+			<name>别巡检调查队(34)(R) </name>          <!--节目名称-->
+			<path>**</path>          <!--节目视频的本地路径-->
+		</Program>
+	</ProgramList>
+</typeB>

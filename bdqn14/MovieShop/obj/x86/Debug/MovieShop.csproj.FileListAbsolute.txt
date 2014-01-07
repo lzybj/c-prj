@@ -1,0 +1,5 @@
+C:\Users\jacky zheng\Documents\Visual Studio 2010\Projects\bdqn14\MovieShop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jacky zheng\Documents\Visual Studio 2010\Projects\bdqn14\MovieShop\bin\Debug\MovieShop.exe
+C:\Users\jacky zheng\Documents\Visual Studio 2010\Projects\bdqn14\MovieShop\bin\Debug\MovieShop.pdb
+C:\Users\jacky zheng\Documents\Visual Studio 2010\Projects\bdqn14\MovieShop\obj\x86\Debug\MovieShop.exe
+C:\Users\jacky zheng\Documents\Visual Studio 2010\Projects\bdqn14\MovieShop\obj\x86\Debug\MovieShop.pdb

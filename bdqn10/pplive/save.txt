@@ -1,0 +1,2 @@
+TypeA|北京电视台|files/北京电视台.xml
+TypeB|凤凰卫视|files/凤凰卫视.xml

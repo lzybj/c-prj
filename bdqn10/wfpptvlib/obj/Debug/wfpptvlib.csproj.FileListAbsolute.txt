@@ -1,0 +1,5 @@
+C:\Users\jacky zheng\documents\visual studio 2010\Projects\bdqn10\wfpptvlib\bin\Debug\wfpptvlib.dll
+C:\Users\jacky zheng\documents\visual studio 2010\Projects\bdqn10\wfpptvlib\bin\Debug\wfpptvlib.pdb
+C:\Users\jacky zheng\documents\visual studio 2010\Projects\bdqn10\wfpptvlib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jacky zheng\documents\visual studio 2010\Projects\bdqn10\wfpptvlib\obj\Debug\wfpptvlib.dll
+C:\Users\jacky zheng\documents\visual studio 2010\Projects\bdqn10\wfpptvlib\obj\Debug\wfpptvlib.pdb

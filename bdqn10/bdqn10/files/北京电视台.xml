@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<typeA version =" 1.0">
+    <channelName>北京电视台</channelName>
+	<tvProgramTable>
+		<tvProgram>
+			<playTime>2009-9-29 06:02</playTime> <!--节目播出时间-->
+			<meridien>早间档</meridien> <!--时段-->
+		       
+			<programName>重播：国际双行线</programName> <!--节目名称-->
+			<path>c:\a.wma</path>         <!--视频路径-->
+		</tvProgram>
+<tvProgram>
+			<playTime>2009-9-29 07:00</playTime> <!--节目播出时间-->
+			<meridien>早间档</meridien> <!--时段-->
+		       
+			<programName>北京您早</programName> <!--节目名称-->
+			<path>C:\New Stories (Highway Blues).wma</path>         <!--视频路径-->
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 09:02</playTime> <!--节目播出时间-->
+			<meridien>早间档</meridien> <!--时段-->
+		       
+			<programName>重播《红星剧场》32集剧：勇者无敌（31）</programName> <!--节目名称-->
+			<path>**</path>         <!--视频路径-->
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 09:58</playTime>
+			
+			<meridien>早间档</meridien>
+			<programName>重播《红星剧场》32集剧：勇者无敌（32）</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 11:15</playTime>
+			
+			<meridien>午间档</meridien>
+			<programName>重播：专题片：我爱你，中国（14）</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 11:58</playTime>
+			
+			<meridien>午间档</meridien>
+			<programName>身边</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 12:30</playTime>
+			
+			<meridien>午间档</meridien>
+			<programName>特别关注</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 13:05</playTime>
+			
+			<meridien>午间档</meridien>
+			<programName>天下天天谈</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 13:40</playTime>
+			
+			<meridien>午间档</meridien>
+			<programName>《玫瑰剧场》55集剧：闯关东中篇（21）</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 14:32</playTime>
+			
+			<meridien>午间档</meridien>
+			<programName>《玫瑰剧场》55集剧：闯关东中篇（22）</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 15:27</playTime>
+			
+			<meridien>下午档</meridien>
+			<programName>《玫瑰剧场》55集剧：闯关东中篇（23）</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 16:19</playTime>
+			
+			<meridien>下午档</meridien>
+			<programName>《玫瑰剧场》55集剧：闯关东中篇（24）</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 17:31</playTime>
+			
+			<meridien>下午档</meridien>
+			<programName>法治进行时</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 18:00</playTime>
+			
+			<meridien>晚间档</meridien>
+			<programName>新闻晚高峰</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 18:30</playTime>
+			
+			<meridien>晚间档</meridien>
+			<programName>北京新闻</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 18:56</playTime>
+			
+			<meridien>晚间档</meridien>
+			<programName>天气预报</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 19:00</playTime>
+			
+			<meridien>晚间档</meridien>
+			<programName>转播CCTV新闻联播</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 19:31</playTime>
+			
+			<meridien>晚间档</meridien>
+			<programName>看气象</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 19:40</playTime>
+			
+			<meridien>晚间档</meridien>
+			<programName>专题片：我爱你，中国（15）</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 20:22</playTime>
+			
+			<meridien>晚间档</meridien>
+			<programName>《爸妈都是老党员》首播庆典</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 21:21</playTime>
+			
+			<meridien>晚间档</meridien>
+			<programName>《红星剧场》38集剧：咱爸咱妈六十年（1）</programName>
+			<path>**</path>
+		</tvProgram>
+		<tvProgram>
+			<playTime>2009-9-29 23:25</playTime>
+			
+			<meridien>晚间档</meridien>
+			<programName>重播文艺：花样年华歌舞大赛（5）</programName>
+			<path>**</path>
+		</tvProgram>
+	</tvProgramTable>
+</typeA>

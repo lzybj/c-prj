@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students>
+  <student>
+    <stucode>1001</stucode>
+    <stuname>小李</stuname>
+    <stuage>19</stuage>
+  </student>
+  <student>
+    <stucode>1002</stucode>
+    <stuname>小王</stuname>
+    <stuage>20</stuage>
+  </student>
+  <student>
+    <stucode>1003</stucode>
+    <stuname>小陈</stuname>
+    <stuage>21</stuage>
+  </student>
+</students>

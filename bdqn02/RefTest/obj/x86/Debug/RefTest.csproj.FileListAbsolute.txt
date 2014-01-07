@@ -1,0 +1,5 @@
+C:\Users\jacky zheng\Documents\Visual Studio 2010\Projects\bdqn02\RefTest\bin\Debug\RefTest.exe
+C:\Users\jacky zheng\Documents\Visual Studio 2010\Projects\bdqn02\RefTest\bin\Debug\RefTest.pdb
+C:\Users\jacky zheng\Documents\Visual Studio 2010\Projects\bdqn02\RefTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jacky zheng\Documents\Visual Studio 2010\Projects\bdqn02\RefTest\obj\x86\Debug\RefTest.exe
+C:\Users\jacky zheng\Documents\Visual Studio 2010\Projects\bdqn02\RefTest\obj\x86\Debug\RefTest.pdb

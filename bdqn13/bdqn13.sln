@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bdqn13", "bdqn13\bdqn13.csproj", "{4040272E-6CD7-44E6-8140-734CCEE87322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pcshop", "pcshop\pcshop.csproj", "{F0051F48-86C6-4822-A002-32DC1CCD0DA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4040272E-6CD7-44E6-8140-734CCEE87322}.Debug|x86.ActiveCfg = Debug|x86
+		{4040272E-6CD7-44E6-8140-734CCEE87322}.Debug|x86.Build.0 = Debug|x86
+		{4040272E-6CD7-44E6-8140-734CCEE87322}.Release|x86.ActiveCfg = Release|x86
+		{4040272E-6CD7-44E6-8140-734CCEE87322}.Release|x86.Build.0 = Release|x86
+		{F0051F48-86C6-4822-A002-32DC1CCD0DA9}.Debug|x86.ActiveCfg = Debug|x86
+		{F0051F48-86C6-4822-A002-32DC1CCD0DA9}.Debug|x86.Build.0 = Debug|x86
+		{F0051F48-86C6-4822-A002-32DC1CCD0DA9}.Release|x86.ActiveCfg = Release|x86
+		{F0051F48-86C6-4822-A002-32DC1CCD0DA9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

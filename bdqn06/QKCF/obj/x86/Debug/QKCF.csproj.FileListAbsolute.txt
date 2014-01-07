@@ -1,0 +1,5 @@
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn06\QKCF\bin\Debug\QKCF.exe
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn06\QKCF\bin\Debug\QKCF.pdb
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn06\QKCF\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn06\QKCF\obj\x86\Debug\QKCF.exe
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn06\QKCF\obj\x86\Debug\QKCF.pdb

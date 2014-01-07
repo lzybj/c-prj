@@ -1,0 +1,5 @@
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn07\absprj\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn07\absprj\bin\Debug\absprj.exe
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn07\absprj\bin\Debug\absprj.pdb
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn07\absprj\obj\x86\Debug\absprj.exe
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn07\absprj\obj\x86\Debug\absprj.pdb

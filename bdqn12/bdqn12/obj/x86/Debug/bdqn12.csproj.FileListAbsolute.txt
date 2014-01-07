@@ -1,0 +1,5 @@
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn12\bdqn12\bin\Debug\bdqn12.exe
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn12\bdqn12\bin\Debug\bdqn12.pdb
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn12\bdqn12\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn12\bdqn12\obj\x86\Debug\bdqn12.exe
+c:\users\jacky zheng\documents\visual studio 2010\Projects\bdqn12\bdqn12\obj\x86\Debug\bdqn12.pdb

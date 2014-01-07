@@ -1,0 +1,5 @@
+C:\Users\jacky zheng\Documents\Visual Studio 2010\Projects\bdqn06\CW\bin\Debug\CW.exe
+C:\Users\jacky zheng\Documents\Visual Studio 2010\Projects\bdqn06\CW\bin\Debug\CW.pdb
+C:\Users\jacky zheng\Documents\Visual Studio 2010\Projects\bdqn06\CW\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jacky zheng\Documents\Visual Studio 2010\Projects\bdqn06\CW\obj\x86\Debug\CW.exe
+C:\Users\jacky zheng\Documents\Visual Studio 2010\Projects\bdqn06\CW\obj\x86\Debug\CW.pdb

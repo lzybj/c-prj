@@ -1,0 +1,5 @@
+C:\Users\jacky zheng\documents\visual studio 2010\Projects\bdqn05\BanYun\bin\Debug\BanYun.exe
+C:\Users\jacky zheng\documents\visual studio 2010\Projects\bdqn05\BanYun\bin\Debug\BanYun.pdb
+C:\Users\jacky zheng\documents\visual studio 2010\Projects\bdqn05\BanYun\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jacky zheng\documents\visual studio 2010\Projects\bdqn05\BanYun\obj\x86\Debug\BanYun.exe
+C:\Users\jacky zheng\documents\visual studio 2010\Projects\bdqn05\BanYun\obj\x86\Debug\BanYun.pdb
